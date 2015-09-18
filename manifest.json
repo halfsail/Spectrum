@@ -1,0 +1,17 @@
+{
+    "name": "spectrum.kevinfeyder",
+    "description": "description of spectrum",
+    "architecture": "all",
+    "title": "spectrum",
+    "hooks": {
+        "spectrum": {
+            "apparmor": "spectrum.apparmor",
+            "desktop":  "spectrum.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Kevin Feyder <kevinfedyer@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

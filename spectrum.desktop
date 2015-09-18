@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=spectrum
+Exec=qmlscene $@ Main.qml
+Icon=spectrum.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
